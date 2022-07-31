@@ -1,6 +1,12 @@
 # A challenge to refactor existing code
 
+<<<<<<< HEAD
  
+=======
+![image](https://user-images.githubusercontent.com/96952755/182009063-6dbeb0b7-e59e-4b69-a211-afea4add0327.png)
+
+
+>>>>>>> f0adaa258f9c853deecae6097546e5f39c419325
 Changes made:
 
 ## Added appropriate page title
