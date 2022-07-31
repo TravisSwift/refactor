@@ -1,5 +1,6 @@
 # A challenge to refactor existing code
 
+![image](https://user-images.githubusercontent.com/96952755/182009063-6dbeb0b7-e59e-4b69-a211-afea4add0327.png)
 
 
 Changes made:
