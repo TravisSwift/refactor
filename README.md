@@ -18,7 +18,7 @@ Changes made:
 - text-align center for sidebar text
 - Consolidated styling for h2 elements
 - Consolidated styling for content class images
-- Consolidted styling for benefit class h3 elements
+- Consolidated styling for benefit class h3 elements
 
 ## Added comments to HTML and CSS
 - Header
