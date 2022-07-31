@@ -1,7 +1,6 @@
 # A challenge to refactor existing code
 
-
-
+ 
 Changes made:
 
 ## Added appropriate page title
