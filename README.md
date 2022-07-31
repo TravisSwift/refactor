@@ -1,2 +1,1 @@
-# refactor
-A challenge to refactor existing code
+# A challenge to refactor existing code
